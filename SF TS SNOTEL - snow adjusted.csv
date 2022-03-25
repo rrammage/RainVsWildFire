@@ -1,0 +1,312 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resource Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: http://www.wcc.nrcs.usda.gov/report_generator/report_generator_landing.htm
+# 
+# Support Contact: nrcsprod@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOTEL 922: Santa Fe, NM
+# 
+# Data items provided in this file:
+#
+# Element Name                        Value Type  Function Type  Function Duration  Base Data  Measurement Units  Sensor Depth  Element Code  Description                       
+# Precipitation Increment - Snow-adj  Value       None           Month              N/A        Inches             N/A           PRCPSA        Snow adjusted total preciptation  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Santa Fe (922) 
+# New Mexico  SNOTEL Site - 11445 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: May 9, 2018 7:44:52 PM GMT-08:00
+#
+Date,Santa Fe (922) Precipitation Increment - Snow-adj (in)
+Oct 1996,6.50
+Nov 1996,4.00
+Dec 1996,1.50
+Jan 1997,5.90
+Feb 1997,4.10
+Mar 1997,0.80
+Apr 1997,5.60
+May 1997,2.40
+Jun 1997,2.80
+Jul 1997,4.40
+Aug 1997,7.60
+Sep 1997,3.40
+Oct 1997,2.60
+Nov 1997,3.80
+Dec 1997,4.20
+Jan 1998,1.20
+Feb 1998,3.90
+Mar 1998,6.10
+Apr 1998,2.70
+May 1998,0.50
+Jun 1998,0.40
+Jul 1998,8.20
+Aug 1998,6.00
+Sep 1998,0.60
+Oct 1998,5.20
+Nov 1998,2.40
+Dec 1998,0.40
+Jan 1999,1.80
+Feb 1999,0.30
+Mar 1999,1.70
+Apr 1999,3.90
+May 1999,3.90
+Jun 1999,2.30
+Jul 1999,6.40
+Aug 1999,8.00
+Sep 1999,3.10
+Oct 1999,0.80
+Nov 1999,0.40
+Dec 1999,1.30
+Jan 2000,3.60
+Feb 2000,0.80
+Mar 2000,5.00
+Apr 2000,1.70
+May 2000,0.20
+Jun 2000,1.10
+Jul 2000,3.60
+Aug 2000,4.90
+Sep 2000,0.50
+Oct 2000,6.60
+Nov 2000,3.60
+Dec 2000,1.70
+Jan 2001,3.90
+Feb 2001,3.10
+Mar 2001,2.60
+Apr 2001,1.60
+May 2001,2.40
+Jun 2001,0.90
+Jul 2001,2.10
+Aug 2001,3.20
+Sep 2001,0.90
+Oct 2001,0.60
+Nov 2001,1.80
+Dec 2001,1.80
+Jan 2002,2.00
+Feb 2002,1.10
+Mar 2002,0.40
+Apr 2002,1.90
+May 2002,0.40
+Jun 2002,1.10
+Jul 2002,3.80
+Aug 2002,1.40
+Sep 2002,4.70
+Oct 2002,3.90
+Nov 2002,3.00
+Dec 2002,1.80
+Jan 2003,0.40
+Feb 2003,5.10
+Mar 2003,5.10
+Apr 2003,1.80
+May 2003,1.20
+Jun 2003,1.40
+Jul 2003,2.50
+Aug 2003,5.50
+Sep 2003,1.00
+Oct 2003,1.20
+Nov 2003,2.30
+Dec 2003,2.80
+Jan 2004,1.40
+Feb 2004,3.80
+Mar 2004,2.50
+Apr 2004,6.10
+May 2004,0.10
+Jun 2004,1.70
+Jul 2004,2.30
+Aug 2004,2.60
+Sep 2004,3.60
+Oct 2004,3.50
+Nov 2004,3.00
+Dec 2004,3.20
+Jan 2005,6.00
+Feb 2005,8.10
+Mar 2005,5.40
+Apr 2005,3.50
+May 2005,1.50
+Jun 2005,0.80
+Jul 2005,3.00
+Aug 2005,3.80
+Sep 2005,3.80
+Oct 2005,3.00
+Nov 2005,0.30
+Dec 2005,0.50
+Jan 2006,0.80
+Feb 2006,0.30
+Mar 2006,2.20
+Apr 2006,1.70
+May 2006,0.80
+Jun 2006,2.40
+Jul 2006,6.40
+Aug 2006,7.40
+Sep 2006,2.30
+Oct 2006,1.70
+Nov 2006,1.00
+Dec 2006,3.20
+Jan 2007,3.00
+Feb 2007,4.40
+Mar 2007,2.20
+Apr 2007,4.10
+May 2007,3.00
+Jun 2007,2.00
+Jul 2007,4.40
+Aug 2007,4.70
+Sep 2007,1.60
+Oct 2007,1.10
+Nov 2007,2.30
+Dec 2007,6.30
+Jan 2008,5.30
+Feb 2008,4.10
+Mar 2008,2.20
+Apr 2008,2.90
+May 2008,2.20
+Jun 2008,1.20
+Jul 2008,3.20
+Aug 2008,6.00
+Sep 2008,0.40
+Oct 2008,3.80
+Nov 2008,1.80
+Dec 2008,8.50
+Jan 2009,1.00
+Feb 2009,1.20
+Mar 2009,2.20
+Apr 2009,4.40
+May 2009,1.60
+Jun 2009,3.10
+Jul 2009,2.80
+Aug 2009,3.20
+Sep 2009,3.10
+Oct 2009,3.30
+Nov 2009,1.40
+Dec 2009,2.60
+Jan 2010,5.00
+Feb 2010,3.80
+Mar 2010,6.20
+Apr 2010,2.80
+May 2010,0.70
+Jun 2010,1.00
+Jul 2010,6.90
+Aug 2010,1.80
+Sep 2010,2.20
+Oct 2010,1.60
+Nov 2010,0.80
+Dec 2010,4.00
+Jan 2011,1.60
+Feb 2011,1.90
+Mar 2011,1.20
+Apr 2011,2.10
+May 2011,1.60
+Jun 2011,0.20
+Jul 2011,3.60
+Aug 2011,4.20
+Sep 2011,2.00
+Oct 2011,3.10
+Nov 2011,2.50
+Dec 2011,4.40
+Jan 2012,2.30
+Feb 2012,2.90
+Mar 2012,2.30
+Apr 2012,1.50
+May 2012,0.90
+Jun 2012,0.50
+Jul 2012,4.80
+Aug 2012,2.00
+Sep 2012,1.20
+Oct 2012,0.30
+Nov 2012,1.00
+Dec 2012,4.00
+Jan 2013,2.20
+Feb 2013,2.30
+Mar 2013,1.60
+Apr 2013,1.70
+May 2013,0.80
+Jun 2013,0.70
+Jul 2013,7.50
+Aug 2013,1.70
+Sep 2013,10.60
+Oct 2013,2.00
+Nov 2013,5.00
+Dec 2013,1.20
+Jan 2014,0.10
+Feb 2014,1.10
+Mar 2014,3.10
+Apr 2014,1.80
+May 2014,2.50
+Jun 2014,0.40
+Jul 2014,6.00
+Aug 2014,2.30
+Sep 2014,1.60
+Oct 2014,1.30
+Nov 2014,2.40
+Dec 2014,3.80
+Jan 2015,3.40
+Feb 2015,2.40
+Mar 2015,2.50
+Apr 2015,1.20
+May 2015,6.20
+Jun 2015,1.40
+Jul 2015,7.50
+Aug 2015,1.20
+Sep 2015,0.80
+Oct 2015,4.20
+Nov 2015,4.30
+Dec 2015,5.20
+Jan 2016,3.10
+Feb 2016,2.00
+Mar 2016,0.30
+Apr 2016,4.00
+May 2016,0.30
+Jun 2016,0.60
+Jul 2016,1.50
+Aug 2016,6.50
+Sep 2016,1.30
+Oct 2016,1.00
+Nov 2016,3.40
+Dec 2016,3.00
+Jan 2017,5.90
+Feb 2017,1.90
+Mar 2017,3.00
+Apr 2017,3.70
+May 2017,1.20
+Jun 2017,0.20
+Jul 2017,6.90
+Aug 2017,3.10
+Sep 2017,4.80
+Oct 2017,1.40
+Nov 2017,0.80
+Dec 2017,0.10
+Jan 2018,1.70
+Feb 2018,2.60
+Mar 2018,0.60
+Apr 2018,0.40
